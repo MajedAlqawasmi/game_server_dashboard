@@ -24,4 +24,4 @@ Consisting of three partitions each coded with a certain color, this dashboard c
 - **Customer Analytics (RFM customer segmentation, churn, customer life span and worth)**
 
 Please do check out dashboards:
-- [Game Server Company Dashboard]([https://public.tableau.com/views/final_project_ironhack/GeneralComplaintsDashboards?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/GameServerDashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/GameServerDashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)<br/>
+- [Game Server Company Dashboard](https://public.tableau.com/views/GameServerDashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)<br/>
