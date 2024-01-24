@@ -1,4 +1,4 @@
-# Game Server Dashboard
+# Game Server [Dashboard](https://public.tableau.com/views/GameServerDashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) January 2024
 <br/><br/>
 ##  Insights for an assumed game server provider company
