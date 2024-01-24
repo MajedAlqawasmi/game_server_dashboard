@@ -1,7 +1,8 @@
-# Financial Product Complaint Handling Optimization
-by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) July 2021
+# Game Server Dashboard
+by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) January 2024
 <br/><br/>
-##  Insights for financial supervisory authorities, consumer & banks 
+##  Insights for an assumed game server provider company. The data is not real data. However, the structure of the data is
+based on a real scenario
 <img src="https://github.com/MajedAlqawasmi/game_server_dashboard/blob/main/rackore-game-server.jpeg" width="1000" height="300">
 
 ## Table of content
