@@ -16,7 +16,7 @@ This data foundation is to be used to create a Tableau dashboard, which is inten
 ## Data
 The data is not real data. However, the structure of the data is based on a real scenario.
 
-## About The Dashboard
+## About The [Dashboard](https://public.tableau.com/views/GameServerDashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 Consisting of three partitions each coded with a certain color, this dashboard can serve as a self-service product for a broad audience of different teams. The partitions are:
 
 - **Financial (Revenue)**
